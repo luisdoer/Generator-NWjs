@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name={{appName}}
+Icon={{appFolder}}
+Exec=/opt/{{appFolder}}/{{appFolder}}
+Comment={{appDescription}}
+Categories=Network;
+Terminal=false
