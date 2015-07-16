@@ -60,9 +60,9 @@ If you need to distribute your installers just run the following command and aut
 Contributions are welcome!
 
 ## Follow me!
-* [Github](http://github.com/luixom)
-* [Tumblr](http://luixom.tumblr.com)
-* [Twitter](http://twitter.com/luixom)
+* [Github](http://github.com/luisdoer)
+* [Tumblr](http://luisdoer.tumblr.com)
+* [Twitter](http://twitter.com/luisdoer)
 
 ----------
 
