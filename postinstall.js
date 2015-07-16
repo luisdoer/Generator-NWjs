@@ -68,7 +68,7 @@ function showRequisites() {
   console.log('# Install Effing package management (Linux)\n'
       + 'gem install fpm');
 
-  console.log(chalk.bgGreen.black('\n[  Follow me! http://twitter.com/luixom  ]\n\n'));
+  console.log(chalk.bgGreen.black('\n[  Follow me! http://twitter.com/luisdoer  ]\n\n'));
 }
 
 function deleteScript() {
