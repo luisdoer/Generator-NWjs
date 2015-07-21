@@ -117,8 +117,8 @@ function init() {
               var gitPattern = /github\.com(\/|\:)([A-Za-z0-9-]+)\/([A-Za-z0-9_.-]+)(\.git)?/;
               var regex = gitPattern.exec(answer);
               if (regex) {
-                githubUsername = regex[1];
-                githubRepoName = regex[2];
+                githubUsername = regex[2];
+                githubRepoName = regex[3];
                 //console.log('Github url: ', answer);
               }
               rl.close();
