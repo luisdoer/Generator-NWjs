@@ -1,5 +1,5 @@
 gulp = require 'gulp'
-shelljs = require 'shelljs/global'
+shelljs = require 'shelljs'
 mergeStream = require 'merge-stream'
 runSequence = require 'run-sequence'
 manifest = require './package.json'
